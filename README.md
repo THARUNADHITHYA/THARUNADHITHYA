@@ -1,5 +1,8 @@
+### HELLO I'm THARUN ADHITHYA ! 👋
 
-<!---
-THARUNADHITHYA/THARUNADHITHYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently learning android app development.
+💬 Ask me about java,xml,android studio,intellij and tech related stuffs.
+📫 How to reach me: Twitter - @ADHITHYA_1103 ,Linked in - @Tharun Adhithya
+😄 Pronouns: He/His
+⚡ About: Strategic thinker and good team and solo player.
+
