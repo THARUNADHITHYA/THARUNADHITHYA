@@ -2,8 +2,8 @@
 
  -  🔭 I’m currently learning android app development.
  -  💬 Ask me about java,xml,android studio,intellij and tech related stuffs.
- -  📫 How to reach me: [Twitter @ADHITHYA_1103](https://twitter.com/ADHITHYA_1103) [LinkedIn @Tharun Adhithya](https://www.linkedin.com/in/tharun-adhithya-209363201/)
- -  😄 Pronouns: He/His.
+ -  📫 How to reach me: Twitter [@ADHITHYA_1103](https://twitter.com/ADHITHYA_1103) LinkedIn [@Tharun Adhithya](https://www.linkedin.com/in/tharun-adhithya-209363201/)
+ -  😄 Pronouns: He/His
  -  ⚡ About: Strategic thinker and good team and solo player.
  -  🌈Mentee [@Spotknack](https://www.linkedin.com/company/spotknack/)
 
