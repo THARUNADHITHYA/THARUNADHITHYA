@@ -10,6 +10,4 @@
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=THARUNADHITHYA&&show_icons=true&title_color=ffffff&icon_color=39FF14&text_color=daf7dc&bg_color=1167B1)
 
-</a>  <a href="https://github.com/THARUNADHITHYA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARUNADHITHYA&layout=compact&theme=buefy&hide_border=true" /></a> 
-
 
